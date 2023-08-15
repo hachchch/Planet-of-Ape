@@ -713,7 +713,7 @@
                 "column": 5
             },
             {
-                "name": "Honor",
+                "name": "Glory",
                 "requires": ["Independence Front","Apes Boss"],
                 "uniques": [
                     "[+15]% Production when constructing [Military] units [in all cities]",
