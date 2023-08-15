@@ -9,7 +9,7 @@
                         {
                                 "name": "Enhanced Apes",
                                 "row": 16,
-                                "uniques": ["Starting tech <for [Planet of the Apes]>"],
+                                "uniques": ["Starting tech <for [Planet of the Apes]>","Only available <before discovering [Agriculture]>"],
                         },
                 ]
         },
