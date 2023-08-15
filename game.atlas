@@ -11,28 +11,28 @@ TileSets/FantasyHex/Tiles/Ape
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Ape
+TileSets/FantasyHex/Tiles/City center-Ape style
   rotate: false
   xy: 1525, 851
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Ape-Information era
+TileSets/FantasyHex/Tiles/City center-Ape style-Information era
   rotate: false
   xy: 1485, 876
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Horses+Pasture-Ape
+TileSets/FantasyHex/Tiles/Horses+Pasture-Ape style
   rotate: false
   xy: 604, 1069
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mine-Ape
+TileSets/FantasyHex/Tiles/Mine-Ape style
   rotate: false
   xy: 1988, 1345
   size: 32, 28
@@ -53,7 +53,7 @@ TileSets/FantasyHex/Units/Ape
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-Ape
+TileSets/FantasyHex/Units/Worker-Ape style
   rotate: false
   xy: 764, 504
   size: 32, 28
