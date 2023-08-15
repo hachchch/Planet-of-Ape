@@ -22,7 +22,7 @@
 		"techs": [
                         {
                                 "name": "Monkey Influenza",
-                                "row": 16,
+                                "row": 15,
 				"prerequisites": ["Enhanced Apes"],
                         },
 			{
