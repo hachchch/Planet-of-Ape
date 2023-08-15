@@ -18,6 +18,7 @@
 	},
 	{
 		"name": "Game",
+		"cost": 1,
 		"uniques": ["Unsellable","Unbuildable",
 			"Cannot build [Aircraft Carrier] units",
 			"Cannot build [Archery] units",
@@ -71,6 +72,12 @@
 			"Provides [1] [Ape] <in cities with at least [33] [Population]>",
 			"Provides [1] [Ape] <in cities with at least [34] [Population]>",
 			"Provides [1] [Ape] <in cities with at least [35] [Population]>",
+			"Gain a free [Guns Source] [in annexed cities]",
 		]
+	},
+	{
+		"name": "Guns Source",
+		"cost": 1,
+		"uniques": ["Unsellable","Unbuildable","Provides [2] [Guns]"],
 	},
 ]
