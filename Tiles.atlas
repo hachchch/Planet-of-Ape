@@ -11,6 +11,41 @@ TileSets/FantasyHex/Tiles/Ape
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/City center-Ape
+  rotate: false
+  xy: 1525, 851
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Information era-Ape
+  rotate: false
+  xy: 1485, 876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses+Pasture-Ape
+  rotate: false
+  xy: 604, 1069
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mine-Ape
+  rotate: false
+  xy: 1988, 1345
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Zoo
+  rotate: false
+  xy: 1725, 806
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Ape
   rotate: false
   xy: 764, 364
