@@ -1,5 +1,5 @@
 
-Tiles.png
+game.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -18,7 +18,7 @@ TileSets/FantasyHex/Tiles/City center-Ape
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Information era-Ape
+TileSets/FantasyHex/Tiles/City center-Ape-Information era
   rotate: false
   xy: 1485, 876
   size: 32, 28
