@@ -1,1 +1,27 @@
 
+Tiles.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Ape
+  rotate: false
+  xy: 764, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Ape
+  rotate: false
+  xy: 764, 504
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ape Warrior
+  rotate: false
+  xy: 764, 448
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
