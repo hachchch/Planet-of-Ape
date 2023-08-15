@@ -1,1 +1,53 @@
-
+[
+	{
+		"name": "Worker Ape",
+                "uniqueTo": "Planet of the Apes",
+                "replaces": "Worker",
+		"unitType": "Civilian",
+		"movement": 3,
+                "requiredResource": "Ape",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
+        {
+                "name": "Atlatlist Ape",
+		"unitType": "Ape Land",
+		"movement": 3,
+                "range": 2,
+		"strength": 50,
+		"rangedStrength": 70,
+		"cost": 40,
+		"requiredTech": "Wepon Making",
+		"obsoleteTech": "Construction",
+		"attackSound": "arrow"
+        },
+        {
+                "name": "Spearape",
+                "unitType": "Ape Land",
+		"movement": 3,
+		"strength": 90,
+		"cost": 40,
+		"requiredTech": "Combat Tattoos",
+		"obsoleteTech": "Construction",
+		"attackSound": "metalhit"
+        },
+        {
+                "name": "Ape Warrior",
+                "unitType": "Ape Land",
+		"movement": 3,
+		"strength": 70,
+		"cost": 40,
+		"requiredTech": "Hunting",
+		"obsoleteTech": "Combat Tattoos",
+		"attackSound": "nonmetalhit"
+        },
+        {
+                "name": "Ape",
+                "unitType": "Ape Land",
+		"movement": 3,
+		"strength": 50,
+		"cost": 30,
+		"obsoleteTech": "Wepon Making",
+		"attackSound": "Arrow"
+        },
+]
