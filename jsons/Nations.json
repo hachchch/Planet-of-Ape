@@ -1,0 +1,33 @@
+[
+        {
+                "name": "Planet of the Apes",
+                "leaderName": "Caesar",
+		"adjective": ["Ape"],
+		"startBias": ["Jungle","Forest","Plains","Lakes"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "We don't like war. War produces nothing...But we hates humans.",
+		"attacked": "We have no animosity, but We have to fight to protect our comrades.",
+		"defeated": "The war is over. Ape blood has finally been cut off from the earth...Ape was extinct.",
+		"introduction": "We have no animosity.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Green Eyes",
+		"uniques": ["[+10]% Strength <vs cities>"],
+                "style": "Ape",
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["R", "S", "I", "P", "U", "Se", "E", "Is", "B", "A"]
+	},
+]
