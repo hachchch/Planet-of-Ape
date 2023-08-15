@@ -1,1 +1,15 @@
-
+[
+        {
+		"name": "Capital Colony",
+                "replaces": "Palace",
+                "uniqueTo": "Planet of the Apes",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"food": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+]
