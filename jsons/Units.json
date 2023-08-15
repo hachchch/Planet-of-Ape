@@ -18,7 +18,7 @@
 		"strength": 50,
 		"rangedStrength": 70,
 		"cost": 40,
-		"requiredTech": "Wepon Making",
+		"requiredTech": "Weapon Making",
 		"obsoleteTech": "Construction",
 		"attackSound": "Stone"
         },
@@ -53,7 +53,7 @@
 		"range": 2,
 		"cost": 30,
 		"requiredResource": "Ape",
-		"obsoleteTech": "Wepon Making",
+		"obsoleteTech": "Weapon Making",
 		"attackSound": "Stone"
         },
 	{
