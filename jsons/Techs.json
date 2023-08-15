@@ -23,34 +23,47 @@
                         {
                                 "name": "Monkey Influenza",
                                 "row": 16,
+				"prerequisites": ["Enhanced Apes"],
                         },
 			{
 				"name": "Sign Language",
 				"row": 12,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
-				"name": "Apes Costruction",
+				"name": "Apes Construction",
 				"row": 20,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
 				"name": "Horse Riding",
 				"row": 17,
+				"prerequisites": ["Enhanced Apes"],
+			},
+			{
+				"name": "Fishing",
+				"row": 14,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
 				"name": "Hunting",
 				"row": 13,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
 				"name": "Colony",
 				"row": 16,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
 				"name": "Spy on Humans",
 				"row": 11,
+				"prerequisites": ["Enhanced Apes"],
 			},
 			{
 				"name": "Drawing",
 				"row": 19,
+				"prerequisites": ["Enhanced Apes"],
 			},
 		]
 	},
@@ -64,28 +77,43 @@
 			{
 				"name": "Writing in Stone",
 				"row": 19,
+				"prerequisites": ["Colony","Drawing"],
 			},
 			{
 				"name": "Fire Weapons",
 				"row": 18,
+				"prerequisites": ["Colony"],
 			},
 			{
 				"name": "voyage",
-				"row": 20,
+				"row": 14,
+				"prerequisites": ["Colony","Fishing"],
 			},
 			{
 				"name": "Speaking",
 				"row": 12,
+				"prerequisites": ["Sign Language"],
 			},
 			{
 				"name": "Combat Tattoos",
 				"row": 17,
+				"prerequisites": ["Hunting","Horse Riding"],
 			},
 			{
 				"name": "Weapon Making",
 				"row": 13,
+				"prerequisites": ["Colony","Hunting"],
 			},
 			{
 				"name": "How to use Guns",
+				"row": 11,
+				"prerequisites": ["Spy on Humans","Sign Language"],
 			},
+			{
+				"name": "Apes Engineering",
+				"row": 20,
+				"prerequisites": ["Colony","Apes Construction"],
+			},
+		]
+	}
 ]
