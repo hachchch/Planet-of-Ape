@@ -1,1 +1,6 @@
-
+[
+	{
+		"name": "Ape Land",
+		"movementType": "Land",
+	},
+]
