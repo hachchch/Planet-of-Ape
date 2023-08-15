@@ -685,7 +685,7 @@
         "era": "Atomic era",
         "uniques": [
             "[+10]% [Science] [in all cities]",
-            "Provides [1] [Ape]"
+            "Provides [1] [Ape]",
             "Only available <after discovering [Enhanced Apes]>",
         ],
         "policies": [
@@ -738,5 +738,63 @@
                 ]
             }
         ]
-    }
+    },
+    {
+        "name": "Great War",
+        "era": "Information era",
+        "uniques": [
+            "[+10]% [Gold] [in all cities]",
+            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+            "[-25]% Culture cost of natural border growth [in all cities]",
+            "Only available <after discovering [Enhanced Apes]>",
+        ],
+        "policies": [
+            {
+                "name": "For New Life",
+                "uniques": ["[+1 Food] [in annexed cities]"],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Ape's wrath",
+                "uniques": [
+                    "[+15]% Strength <for [Ape] units> <vs [Military] units>",
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Battle Front",
+                "uniques": [
+                    "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Ferocious",
+                "requires": ["Ape's wrath"],
+                "uniques": [
+                    "[Gold] cost of purchasing [Military] units [-33]%",
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Holy War",
+                "requires": ["Battle Front","For New Life"],
+                "uniques": [
+                    "Only available <when at war>",
+                ],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Great War Complete",
+                "uniques": [
+                    "Earn [100]% of killed [Military] unit's [Cost] as [Gold]",
+                ]
+            }
+        ]
+    },
 ]
