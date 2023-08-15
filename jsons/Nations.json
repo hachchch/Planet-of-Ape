@@ -1,7 +1,7 @@
 [
         {
                 "name": "Planet of the Apes",
-                "leaderName": "Caesar",
+                "leaderName": "Apes Leader",
 		"adjective": ["Ape"],
 		"startBias": ["Jungle","Forest","Plains","Lakes"],
 		"preferredVictoryType": "Scientific",
