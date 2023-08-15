@@ -743,6 +743,7 @@
         "name": "Great War",
         "era": "Information era",
         "uniques": [
+            "Only available <when at war>",
             "[+10]% [Gold] [in all cities]",
             "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
             "[-25]% Culture cost of natural border growth [in all cities]",
