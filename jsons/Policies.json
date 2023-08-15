@@ -681,7 +681,7 @@
         ]
     },
     {
-        "name": "The Genesis",
+        "name": "Genesis",
         "era": "Atomic era",
         "uniques": [
             "[+10]% [Science] [in all cities]",
@@ -691,15 +691,15 @@
         "policies": [
             {
                 "name": "Liberal the Zoo",
-                "uniques": [""],
+                "uniques": ["[2] free [Ape] units appear"],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Planned Economy",
+                "name": "Apes Boss",
                 "uniques": [
-                    "[+25]% [Science] from every [Factory]",
-                    "[+100]% Production when constructing [Factory] buildings [in all cities]"
+                    "[-15]% maintenance cost for buildings [in all cities]",
+                    "Free Great Person",
                 ],
                 "row": 1,
                 "column": 3
@@ -713,30 +713,28 @@
                 "column": 5
             },
             {
-                "name": "Socialism",
-                "requires": ["Planned Economy"],
+                "name": "Honor",
+                "requires": ["Independence Front","Apes Boss"],
                 "uniques": [
-                    "[-15]% maintenance cost for buildings [in all cities]"
+                    "[+15]% Production when constructing [Military] units [in all cities]",
                 ],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Communism",
-                "requires": ["Socialism"],
+                "name": "Search New Home",
+                "requires": ["Apes Boss","Liberal the Zoo"],
                 "uniques": [
-                    "[+2 Production] [in all cities]",
-                    "[+1 Production] from every [Mine]",
-                    "[+1 Production] from every [Quarry]"
+                    "[1] free [Settler] units appear",
                 ],
                 "row": 2,
                 "column": 4
             },
             {
-                "name": "Order Complete",
+                "name": "Genesis Complete",
                 "uniques": [
-                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "[2] free [Ape] units appear",
+                    "[1] free [Settler] units appear",
                 ]
             }
         ]
