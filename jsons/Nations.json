@@ -22,7 +22,7 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Green Eyes",
-		"uniques": ["[+10]% Strength <vs cities>"],
+		"uniques": ["[+10]% Strength <vs cities> <for [All] units>"],
                 "style": "Ape",
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
