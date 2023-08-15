@@ -7,9 +7,9 @@
 		"wonderCost": 1250,
 		"techs": [
                         {
-                                "name": "Monkey Enhancement",
+                                "name": "Enhanced Apes",
                                 "row": 16,
-                                "uniques": ["Starting tech <for [Planet of Apes]>"],
+                                "uniques": ["Starting tech <for [Planet of the Apes]>"],
                         },
                 ]
         },
@@ -22,5 +22,70 @@
 		"techs": [
                         {
                                 "name": "Monkey Influenza",
-                                "row": 20,
+                                "row": 16,
                         },
+			{
+				"name": "Sign Language",
+				"row": 12,
+			},
+			{
+				"name": "Apes Costruction",
+				"row": 20,
+			},
+			{
+				"name": "Horse Riding",
+				"row": 17,
+			},
+			{
+				"name": "Hunting",
+				"row": 13,
+			},
+			{
+				"name": "Colony",
+				"row": 16,
+			},
+			{
+				"name": "How to use Guns",
+				"row": 11,
+			},
+			{
+				"name": "Drawing",
+				"row": 19,
+			},
+		]
+	},
+	{
+		"columnNumber": 15,
+		"era": "Information era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Writing in Stone",
+				"row": 19,
+			},
+			{
+				"name": "Fire Weapons",
+				"row": 18,
+			},
+			{
+				"name": "voyage",
+				"row": 20,
+			},
+			{
+				"name": "Speaking",
+				"row": 12,
+			},
+			{
+				"name": "Combat Tattoos",
+				"row": 17,
+			},
+			{
+				"name": "Weapon Making",
+				"row": 13,
+			},
+			{
+				"name": "",
+			},
+]
