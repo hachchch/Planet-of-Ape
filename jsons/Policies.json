@@ -691,7 +691,7 @@
         "policies": [
             {
                 "name": "Liberal the Zoo",
-                "uniques": ["[2] free [Ape] units appear"],
+                "uniques": ["[2] free [Ape] units appear","Provides [2] [Ape]"],
                 "row": 1,
                 "column": 1
             },
@@ -726,6 +726,7 @@
                 "requires": ["Apes Boss","Liberal the Zoo"],
                 "uniques": [
                     "[1] free [Settler] units appear",
+                    "Provides [1] [Ape]"
                 ],
                 "row": 2,
                 "column": 4
@@ -735,6 +736,7 @@
                 "uniques": [
                     "[2] free [Ape] units appear",
                     "[1] free [Settler] units appear",
+                    "Provides [3] [Ape]",
                 ]
             }
         ]
