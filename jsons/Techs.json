@@ -1,1 +1,26 @@
-
+[
+        {
+                "columnNumber": 13,
+		"era": "Atomic era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+                        {
+                                "name": "Monkey Enhancement",
+                                "row": 16,
+                                "uniques": ["Starting tech <for [Planet of Apes]>"],
+                        },
+                ]
+        },
+        {
+                "columnNumber": 14,
+		"era": "Atomic era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+                        {
+                                "name": "Monkey Influenza",
+                                "row": 20,
+                        },
