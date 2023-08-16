@@ -69,7 +69,7 @@ TileSets/FantasyHex/Units/Settler-Ape-Atomic era
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Ape
   rotate: false
-  xy: 700, 504
+  xy: 716, 504
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
