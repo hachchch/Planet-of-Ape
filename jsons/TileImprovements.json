@@ -7,5 +7,13 @@
 	    "terrainsCanBeBuiltOn": ["Jungle"],
 	    "uniques": ["[+1 Science] <after discovering [Pharmaceuticals]>","[+1 Gold] <after discovering [Ecology]>"],
 		"shortcutKey": "Z"
-    }
+    },
+	{
+		"name": "Settlement",
+		"food": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Apes Construction",
+	    "terrainsCanBeBuiltOn": ["Land"],
+	    "uniques": ["[+1 Food] <after discovering [Colony]>","[+1 Production] <after discovering [Apes Engineering]>"],
+	},
 ]
