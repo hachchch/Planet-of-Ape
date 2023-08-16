@@ -76,14 +76,14 @@ TileSets/FantasyHex/Units/Horse Rifle Ape
   index: -1
 TileSets/FantasyHex/Units/Horse Atlatlist Ape
   rotate: false
-  xy: 700, 340
+  xy: 700, 326
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horse Fire Ape
   rotate: false
-  xy: 668, 340
+  xy: 668, 326
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
