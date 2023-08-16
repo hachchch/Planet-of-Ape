@@ -26,6 +26,8 @@
         },
         {
                 "name": "Spearape",
+		"replaces": "Warrior",
+		"uniqueTo": "Planet of Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"strength": 70,
