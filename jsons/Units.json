@@ -12,7 +12,7 @@
         {
                 "name": "Atlatlist Ape",
 		"replaces": "Rifleman",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
 		"unitType": "Ape Land",
 		"movement": 3,
                 "range": 2,
@@ -27,7 +27,7 @@
         {
                 "name": "Spearape",
 		"replaces": "Warrior",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"strength": 70,
@@ -40,7 +40,7 @@
         {
                 "name": "Ape Warrior",
 		"replaces": "Spearman",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"strength": 60,
@@ -53,7 +53,7 @@
         {
                 "name": "Ape",
 		"replaces": "Infantry",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"strength": 50,
@@ -121,7 +121,7 @@
 	{
 		"name": "Rifle Ape",
 		"replaces": "Marine",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
 		"unitType": "Ape Land",
 		"movement": 3,
 		"requiredResource": "Ape",
@@ -135,7 +135,7 @@
 	{
 		"name": "Fire Ape",
 		"replaces": "Musketman",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"rangedStrength": 70,
@@ -150,7 +150,7 @@
 	{
 		"name": "Fire Thrower Ape",
 		"replaces": "Pikeman",
-		"uniqueTo": "Planet of Apes",
+		"uniqueTo": "Planet of the Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
 		"strength": 50,
