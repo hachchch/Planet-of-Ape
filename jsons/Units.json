@@ -50,7 +50,7 @@
         },
         {
                 "name": "Ape",
-		"replaces": "Warrior",
+		"replaces": "Infantry",
 		"uniqueTo": "Planet of Apes",
                 "unitType": "Ape Land",
 		"movement": 3,
