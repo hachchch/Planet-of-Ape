@@ -7,7 +7,16 @@
 		"movement": 3,
                 "requiredResource": "Ape",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 70
+		"cost": 70,
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Worker Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
         {
                 "name": "Atlatlist Ape",
@@ -22,7 +31,16 @@
 		"cost": 40,
 		"requiredTech": "Weapon Making",
 		"obsoleteTech": "Construction",
-		"attackSound": "Stone"
+		"attackSound": "Stone",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Atlatlist Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
         },
         {
                 "name": "Spearape",
@@ -35,7 +53,16 @@
 		"requiredResource": "Ape",
 		"requiredTech": "Combat Tattoos",
 		"obsoleteTech": "Construction",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Spearape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
         },
         {
                 "name": "Ape Warrior",
@@ -48,7 +75,16 @@
 		"requiredResource": "Ape",
 		"requiredTech": "Hunting",
 		"obsoleteTech": "Combat Tattoos",
-		"attackSound": "nonmetalhit"
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Ape Warrior",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
         },
         {
                 "name": "Ape",
@@ -62,7 +98,16 @@
 		"cost": 30,
 		"requiredResource": "Ape",
 		"obsoleteTech": "Weapon Making",
-		"attackSound": "Stone"
+		"attackSound": "Stone",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
         },
 	{
 		"name": "Fire Atlatlist Ape",
@@ -77,6 +122,15 @@
 		"requiredTech": "Fire Weapons",
 		"obsoleteTech": "Construction",
 		"attackSound": "arrow",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Fire Atlatlist Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Horse Fire Ape",
@@ -91,6 +145,15 @@
 		"requiredTech": "Horse Riding",
 		"obsoleteTech": "Construction",
 		"attackSound": "horse",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Horse Fire Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Horse Atlatlist Ape",
@@ -105,6 +168,15 @@
 		"requiredTech": "Horse Riding",
 		"obsoleteTech": "Construction",
 		"attackSound": "horse",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Horse Atlatlist Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Horse Rifle Ape",
@@ -117,6 +189,15 @@
 		"requiredTech": "Horse Riding",
 		"obsoleteTech": "Construction",
 		"attackSound": "horse",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Horse Rifle Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Rifle Ape",
@@ -131,6 +212,15 @@
 		"requiredTech": "How to use Guns",
 		"obsoleteTech": "Construction",
 		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Rifle Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Fire Ape",
@@ -145,7 +235,16 @@
 		"requiredResource": "Ape",
 		"uniques": ["[+20]% Strength <vs cities>"],
 		"obsoleteTech": "Fire Weapons",
-		"attackSound": "Stone"
+		"attackSound": "Stone",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Fire Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 	{
 		"name": "Fire Thrower Ape",
@@ -160,6 +259,15 @@
 		"requiredResource": "Ape",
 		"uniques": ["[+50]% Strength <vs cities>"],
 		"obsoleteTech": "Fire Weapons",
-		"attackSound": "Stone"
+		"attackSound": "fire",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Fire Thrower Ape",
+				"imageSize": 192
+			},
+			{
+				"Separator": true
+			},
+		]
 	},
 ]
