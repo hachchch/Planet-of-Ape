@@ -111,7 +111,7 @@ TileSets/FantasyHex/Units/Spearape
   index: -1
 TileSets/FantasyHex/Units/Ape Warrior
   rotate: false
-  xy: 762, 448
+  xy: 766, 448
   size: 34, 28
   orig: 34, 28
   offset: 0, 0
