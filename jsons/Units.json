@@ -6,7 +6,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
                 "requiredResource": "Ape",
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Road] improvements on tiles","Can build [Settlement] improvements on tiles","Can build [Apes Pasture] improvements on tiles", "Automation is a primary action"],
 		"cost": 70,
 		"civilopediaText": [
 			{
