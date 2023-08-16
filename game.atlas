@@ -56,15 +56,15 @@ TileSets/FantasyHex/Units/Ape
 TileSets/FantasyHex/Units/Worker Ape
   rotate: false
   xy: 764, 504
-  size: 32, 28
-  orig: 32, 28
+  size: 16, 28
+  orig: 16, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Ape
   rotate: false
   xy: 732, 504
-  size: 32, 28
-  orig: 32, 28
+  size: 16, 28
+  orig: 16, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Ape
