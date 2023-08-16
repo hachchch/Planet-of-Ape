@@ -48,9 +48,9 @@ TileSets/FantasyHex/Tiles/Zoo
   index: -1
 TileSets/FantasyHex/Units/Ape
   rotate: false
-  xy: 764, 364
-  size: 32, 28
-  orig: 32, 28
+  xy: 766, 364
+  size: 30, 28
+  orig: 30, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker Ape
