@@ -114,11 +114,6 @@
 				"row": 20,
 				"prerequisites": ["Colony","Apes Construction"],
 			},
-			{
-				"name": "Humans Race",
-				"row": 1,
-				"uniques": ["Starting tech","Only available <before discovering [Enhanced Apes]>"],
-			},
 		]
 	},
 ]
