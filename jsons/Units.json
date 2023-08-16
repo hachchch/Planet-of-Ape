@@ -120,7 +120,7 @@
 		"cost": 40,
 		"uniques": ["[+20]% Strength <vs cities>","Unbuildable <before discovering [Weapon Making]>"],
 		"requiredTech": "Fire Weapons",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Humans Race",
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{
@@ -143,7 +143,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[+20]% Strength <vs cities>","Unbuildable <before discovering [Fire Weapons]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Humans Race",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -166,7 +166,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","Unbuildable <before discovering [Weapon Making]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Humans Race",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -187,7 +187,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Guns]","Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","Unbuildable <before discovering [How to use Guns]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Humans Race",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -210,7 +210,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Guns]"],
 		"requiredTech": "How to use Guns",
-		"obsoleteTech": "Construction",
+		"obsoleteTech": "Humans Race",
 		"attackSound": "shot",
 		"civilopediaText": [
 			{
