@@ -74,6 +74,41 @@ TileSets/FantasyHex/Units/Great Scientist-Ape
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Great Prophet-Ape
+  rotate: false
+  xy: 716, 534
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Merchant-Ape
+  rotate: false
+  xy: 748, 534
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great General-Ape
+  rotate: false
+  xy: 780, 534
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Engineer-Ape
+  rotate: false
+  xy: 812, 534
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearape
+  rotate: false
+  xy: 796, 504
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Ape Warrior
   rotate: false
   xy: 764, 448
