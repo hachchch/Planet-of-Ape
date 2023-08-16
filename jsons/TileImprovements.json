@@ -4,7 +4,8 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Biology",
-        "uniques": ["[+1 Science] <after discovering [Pharmaceuticals]>","[+1 Gold] <after discovering [Ecology]>"]
+	    "terrainsCanBeBuiltOn": ["Jungle"],
+	    "uniques": ["[+1 Science] <after discovering [Pharmaceuticals]>","[+1 Gold] <after discovering [Ecology]>"],
 		"shortcutKey": "Z"
     }
 ]
