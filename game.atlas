@@ -62,14 +62,14 @@ TileSets/FantasyHex/Units/Fire Ape
   index: -1
 TileSets/FantasyHex/Units/Rifle Ape
   rotate: false
-  xy: 732, 364
+  xy: 735, 364
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horse Rifle Ape
   rotate: false
-  xy: 732, 334
+  xy: 732, 335
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
