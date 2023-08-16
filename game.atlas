@@ -62,7 +62,7 @@ TileSets/FantasyHex/Units/Worker Ape
   index: -1
 TileSets/FantasyHex/Units/Settler-Ape-Atomic era
   rotate: false
-  xy: 748, 506
+  xy: 748, 502
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
