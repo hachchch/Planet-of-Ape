@@ -117,7 +117,7 @@
 			{
 				"name": "Humans Race",
 				"row": 1,
-				"uniques": ["Starting tech <before discovering [Enhanced Apes]>","Only available <before discovering [Enhanced Apes]>"],
+				"uniques": ["Starting tech","Only available <before discovering [Enhanced Apes]>"],
 			},
 		]
 	},
