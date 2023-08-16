@@ -55,7 +55,7 @@ TileSets/FantasyHex/Units/Ape
   index: -1
 TileSets/FantasyHex/Units/Worker Ape
   rotate: false
-  xy: 756, 504
+  xy: 764, 504
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
