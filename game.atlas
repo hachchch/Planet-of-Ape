@@ -81,6 +81,13 @@ TileSets/FantasyHex/Units/Horse Atlatlist Ape
   orig: 32, 35
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Horse Fire Ape
+  rotate: false
+  xy: 668, 340
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Fire Thrower Ape
   rotate: false
   xy: 732, 394
