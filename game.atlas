@@ -13,9 +13,9 @@ TileSets/FantasyHex/Tiles/Ape
   index: -1
 TileSets/FantasyHex/Tiles/City center-Ape-Atomic era
   rotate: false
-  xy: 1525, 851
-  size: 32, 28
-  orig: 32, 28
+  xy: 1525, 846
+  size: 32, 33
+  orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Ape-Information era
