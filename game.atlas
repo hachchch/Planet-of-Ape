@@ -53,6 +53,34 @@ TileSets/FantasyHex/Units/Ape
   orig: 30, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Fire Ape
+  rotate: false
+  xy: 765, 394
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifle Ape
+  rotate: false
+  xy: 732, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horse Rifle Ape
+  rotate: false
+  xy: 732, 334
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fire Thrower Ape
+  rotate: false
+  xy: 732, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Worker Ape
   rotate: false
   xy: 780, 504
