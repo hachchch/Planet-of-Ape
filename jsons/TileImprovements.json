@@ -4,7 +4,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Biology",
-	    "terrainsCanBeBuiltOn": ["Jungle"],
+	    "terrainsCanBeBuiltOn": ["Land"],
 	    "uniques": ["[+1 Science] <after discovering [Pharmaceuticals]>","[+1 Gold] <after discovering [Ecology]>"],
 		"shortcutKey": "Z"
     },
@@ -13,7 +13,7 @@
 		"food": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Apes Construction",
-	    "terrainsCanBeBuiltOn": ["Land"],
+	    "terrainsCanBeBuiltOn": ["Land","Jungle","Forest"],
 	    "uniques": ["[+1 Food] <after discovering [Colony]>","[+1 Production] <after discovering [Apes Engineering]>"],
 	},
 	{
