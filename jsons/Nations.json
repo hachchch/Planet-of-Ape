@@ -21,8 +21,8 @@
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
-		"uniqueName": "Green Eyes",
-		"uniques": ["Starts with [Enhanced Apes]"],
+		"uniqueName": "Dawn of Another Civilized Primates",
+		"uniques": ["[All] units gain the [Woodsman] promotion","Starts with [Enhanced Apes]"],
                 "style": "Ape",
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
