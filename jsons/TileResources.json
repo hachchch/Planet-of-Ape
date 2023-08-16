@@ -4,7 +4,7 @@
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Jungle","Plains"],
 		"happiness": 1,
-		"improvement": "Zoo",
+		"improvedBy": ["Settlement", "Zoo"],
 		"uniques": ["Guaranteed with Strategic Balance resource option",
 					"Generated with weight [45] <in [Jungle] [Plains] tiles>"]
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
