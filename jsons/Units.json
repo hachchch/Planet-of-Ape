@@ -22,7 +22,15 @@
                 "name": "Atlatlist Ape",
 		"replaces": "Rifleman",
 		"uniqueTo": "Planet of the Apes",
-		"unitType": "Ape Land",
+		"un"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]itType": "Ape Land",
 		"movement": 3,
                 "range": 2,
 		"requiredResource": "Ape",
@@ -120,7 +128,7 @@
 		"cost": 40,
 		"uniques": ["[+20]% Strength <vs cities>","Unbuildable <before discovering [Weapon Making]>"],
 		"requiredTech": "Fire Weapons",
-		"obsoleteTech": "Humans Race",
+		"uniqueTo": "Planet of the Apes",
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{
@@ -143,7 +151,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[+20]% Strength <vs cities>","Unbuildable <before discovering [Fire Weapons]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Humans Race",
+		"uniqueTo": "Planet of the Apes",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -166,7 +174,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","Unbuildable <before discovering [Weapon Making]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Humans Race",
+		"uniqueTo": "Planet of the Apes",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -187,7 +195,7 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Guns]","Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","Unbuildable <before discovering [How to use Guns]>"],
 		"requiredTech": "Horse Riding",
-		"obsoleteTech": "Humans Race",
+		"uniqueTo": "Planet of the Apes",
 		"attackSound": "horse",
 		"civilopediaText": [
 			{
@@ -210,7 +218,6 @@
 		"cost": 40,
 		"uniques": ["Consumes [1] [Guns]"],
 		"requiredTech": "How to use Guns",
-		"obsoleteTech": "Humans Race",
 		"attackSound": "shot",
 		"civilopediaText": [
 			{
