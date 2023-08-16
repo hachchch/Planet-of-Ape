@@ -62,9 +62,9 @@ TileSets/FantasyHex/Units/Atlatlist Ape
   index: -1
 TileSets/FantasyHex/Units/Fire Atlatlist Ape
   rotate: false
-  xy: 796, 394
-  size: 35, 28
-  orig: 35, 28
+  xy: 795, 394
+  size: 36, 28
+  orig: 36, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fire Ape
