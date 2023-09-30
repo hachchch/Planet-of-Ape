@@ -19,6 +19,7 @@
 	{
 		"name": "Game",
 		"cost": 1,
+		"science": 180,
 		"uniques": ["Unsellable","Unbuildable",
 			"Cannot build [Aircraft Carrier] units",
 			"Cannot build [Archery] units",
