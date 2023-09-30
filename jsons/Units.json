@@ -249,7 +249,7 @@
 		"cost": 30,
 		"requiredResource": "Ape",
 		"uniques": ["[+20]% Strength <vs cities>"],
-		"obsoleteTech": "Fire Weapons",
+		"requiredTech": "Fire Weapons",
 		"attackSound": "Stone",
 		"civilopediaText": [
 			{
@@ -273,7 +273,7 @@
 		"cost": 30,
 		"requiredResource": "Ape",
 		"uniques": ["[+50]% Strength <vs cities>"],
-		"obsoleteTech": "Fire Weapons",
+		"requiredTech": "Fire Weapons",
 		"attackSound": "fire",
 		"civilopediaText": [
 			{
