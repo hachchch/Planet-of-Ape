@@ -11,6 +11,34 @@
                                 "row": 16,
                                 "uniques": ["Starting tech <for [Planet of the Apes]>","Only available <before discovering [Agriculture]>"],
                         },
+			{
+				"name": "Pharmaceuticals",
+				"row": 2,
+				"prerequisites": ["Plastics","Refrigeration"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
+				"uniques": ["Only available <before discovering [Enhanced Apes]>"],
+			},
+			{
+				"name": "Atomic Theory",
+				"row": 4,
+				"prerequisites": ["Plastics","Electronics"],
+				"uniques": ["Only available <before discovering [Enhanced Apes]>"],
+				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
+			},
+			{
+				"name": "Radar",
+				"row": 6,
+				"prerequisites": ["Ballistics","Electronics"],
+				"uniques": ["Only available <before discovering [Enhanced Apes]>"],
+				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
+			},
+			{
+				"name": "Combined Arms",
+				"row": 8,
+				"prerequisites": ["Ballistics","Combustion"],
+				"uniques": ["Only available <before discovering [Enhanced Apes]>"],
+				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
+			}
                 ]
         },
         {
