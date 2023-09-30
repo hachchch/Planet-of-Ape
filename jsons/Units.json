@@ -68,7 +68,6 @@
 		"cost": 40,
 		"requiredResource": "Ape",
 		"requiredTech": "Combat Tattoos",
-		"obsoleteTech": "Construction",
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{
