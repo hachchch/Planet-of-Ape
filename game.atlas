@@ -25,7 +25,7 @@ TileSets/FantasyHex/Tiles/City center-Ape-Information era
   orig: 32, 31
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Horses+Apes Pasture
+TileSets/FantasyHex/Tiles/Apes Pasture
   rotate: false
   xy: 604, 1069
   size: 32, 28
