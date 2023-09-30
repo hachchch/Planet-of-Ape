@@ -41,6 +41,21 @@
 			}
                 ]
         },
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech","Only available <before discovering [Enhanced Apes]>"]
+			}
+		]
+	},
         {
                 "columnNumber": 14,
 		"era": "Atomic era",
